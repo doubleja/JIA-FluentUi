@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>emoji.png</file>
+        <file>ConversationPage.qml</file>
+        <file>image/bg.png</file>
+        <file>image/bg2.png</file>
+        <file>image/main1.png</file>
+        <file>image/blank.png</file>
+        <file>image/cancel.png</file>
+        <file>image/small.png</file>
+        <file>image/user.png</file>
+        <file>image/users.png</file>
+        <file>image/main2.png</file>
+        <file>Jia_framework.qml</file>
+        <file>image/add.png</file>
+        <file>image/error.png</file>
+        <file>image/dark_mode.png</file>
+        <file>image/check_indeterminate_small.png</file>
+        <file>image/close.png</file>
+        <file>image/navigate_before.png</file>
+        <file>image/navigate_next.png</file>
+        <file>Component/Button/ListButton_1.qml</file>
+        <file>image/JIA.png</file>
+    </qresource>
+</RCC>
